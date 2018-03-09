@@ -13,7 +13,7 @@ $nomeCompleto = $nome1." ".$sobrenome;
 
 echo $nomeCompleto;
 
-exit;
+//exit;
 
 echo "</br>";
 
